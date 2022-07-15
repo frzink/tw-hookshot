@@ -4,7 +4,7 @@ It is kept short to keep the reviewing process simple, but possible changes and 
 The project represents a re-creation or sight reading of one of my favorite mechanics of a childhood game,
 the hookshot in Teeworlds.
 
-The controls are:
-A/D                 Move left/right
-Space               Jump
-Right Mouse Button  Fire the hookshot
+The controls are:  
+A/D - Move left/right  
+Space - Jump  
+Right Mouse Button - Fire the hookshot  
